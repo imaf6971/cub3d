@@ -6,13 +6,13 @@
 /*   By: imaf6971 <imaf6971@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/06/12 21:40:40 by imaf6971          #+#    #+#             */
-/*   Updated: 2022/06/12 21:41:42 by imaf6971         ###   ########.fr       */
+/*   Updated: 2022/06/12 22:00:44 by imaf6971         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #ifndef UTILS_INT_H
 # define UTILS_INT_H
 
-#include <stddef.h>
+#include <stdlib.h>
 
 #endif
