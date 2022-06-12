@@ -6,13 +6,13 @@
 /*   By: imaf6971 <imaf6971@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/06/12 20:24:19 by imaf6971          #+#    #+#             */
-/*   Updated: 2022/06/12 20:24:20 by imaf6971         ###   ########.fr       */
+/*   Updated: 2022/06/12 22:01:17 by imaf6971         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
+#include "rendering/rendering.h"
 
-int main(int argc, char const *argv[])
+int	main(void)
 {
-    /* code */
-    return 0;
+	init_mlx();
 }
