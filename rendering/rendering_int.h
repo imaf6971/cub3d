@@ -6,7 +6,7 @@
 /*   By: imaf6971 <imaf6971@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/06/12 21:45:59 by imaf6971          #+#    #+#             */
-/*   Updated: 2022/06/12 21:51:55 by imaf6971         ###   ########.fr       */
+/*   Updated: 2022/06/21 18:48:43 by imaf6971         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -19,6 +19,14 @@
 
 # include "../minilibx/mlx.h"
 # include "../utils/utils.h"
+
+typedef struct s_2vec
+{
+	int	x;
+	int	y;
+} t_2vec;
+
+typedef t_2vec t_coord;
 
 typedef struct s_mlx_data {
 	void		*mlx_ptr;
